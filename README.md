@@ -8,7 +8,7 @@ LAION，即 Large-scale Artificial Intelligence Open Network，是一个非盈�
 
 "我们不会止步于复制 ChatGPT。我们希望构建未来的助手，不仅能够编写电子邮件和求职信，还能做有意义的工作、使用 API、动态研究信息等等，并且能够由任何人进行个性化和扩展。我们希望以一种开放和可访问的方式来做到这一点，这意味着我们不仅要构建一个出色的助手，还要使其足够小且高效以在消费类硬件上运行。"
 
-CarperAI 是EleutherAI研究小组的一个新实验室，其任务是“通过强化学习提高大型语言模型 (LLM) 的性能和安全性。” InfoQ 之前报道过 EleutherAI 开发的开源语言模型GPT-NeoX。2022 年 10 月，该实验室宣布了一个使用 RLHF训练和公开发布“指令调整”模型的项目。该项目是几个组织的合作成果，包括HuggingFace、Scale和Humanloop。作为该项目的一部分，CarperAI 开源了 Transformer Reinforcement Learning X (trlX)，这是一个使用 RLHF 微调 HuggingFace 语言模型的框架。
+CarperAI 是EleutherAI研究小组的一个新实验室，其任务是“通过强化学习提高大型语言模型 (LLM) 的性能和安全性。” EleutherAI 开发的开源语言模型GPT-NeoX。2022 年 10 月，该实验室宣布了一个使用 RLHF训练和公开发布“指令调整”模型的项目。该项目是几个组织的合作成果，包括HuggingFace、Scale和Humanloop。作为该项目的一部分，CarperAI 开源了 Transformer Reinforcement Learning X (trlX)，这是一个使用 RLHF 微调 HuggingFace 语言模型的框架。
 
 以Imagen和Make-A-Video等深度学习研究模型的开源实现而闻名的 AI 开发人员 Phil Wang分享了他正在为PaLM语言模型（称为 PaLM + RLHF）实施 RLHF 的工作。Wang 指出，没有预训练模型，只有用户自己训练的框架。他还建议有兴趣复制 ChatGPT 的用户加入LAION discord 频道。
 

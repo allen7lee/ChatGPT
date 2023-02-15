@@ -1,4 +1,4 @@
-# ChatGPT 设计开源软件研究
+# ChatGPT 涉及开源软件研究
 ChatGPT涉及到的开源软件如下：
 https://github.com/LAION-AI/Open-Assistant
 https://github.com/CarperAI/trlx
